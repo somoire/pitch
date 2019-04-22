@@ -4,7 +4,7 @@ from .forms import PitchForm,UpdateProfile,ReviewForm
 from ..import db,photos
 from ..models import User,Pitch,Review
 from flask_login import login_required,current_user
-import markdown2
+# import markdown2
 
 #Views
 @main.route("/")
