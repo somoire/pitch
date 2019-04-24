@@ -1,4 +1,4 @@
-# SECRET_KEY="flasksecret"
+SECRET_KEY="Somiisecret.1802"
 
 # MAIL_USERNAME="rayr30667@gmail.com"
 # MAIL_PASSWORD="Boom"

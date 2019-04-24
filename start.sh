@@ -1,7 +1,7 @@
-export SECRET_KEY=12345
+export SECRET_KEY="Somiisecret.1802"
 
 export MAIL_USERNAME=rayr30667@gmail.com
-export MAIL_PASSWORD=12345
+export MAIL_PASSWORD=sommoire
 
 # export DATABASE_URL='postgresql+psycopg2://rodney:sommoire@localhost/pitch'
 
