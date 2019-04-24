@@ -1,6 +1,6 @@
-SECRET_KEY="flasksecret"
+# SECRET_KEY="flasksecret"
 
-MAIL_USERNAME="rayr30667@gmail.com"
-MAIL_PASSWORD="Boom"
+# MAIL_USERNAME="rayr30667@gmail.com"
+# MAIL_PASSWORD="Boom"
 
-DATABASE_URL='postgresql+psycopg2://rodneysomoire:Boom@localhost/pitch'
+# DATABASE_URL='postgresql+psycopg2://rodney:sommoire@localhost/pitch'
